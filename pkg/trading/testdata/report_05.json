@@ -1,0 +1,25 @@
+{
+  "ExecutionReport": {
+    "orderId": "94636418806",
+    "latestOrderId": "94645261699",
+    "clientOrderId": "010F10EE69C95AE20FB100",
+    "orderStatus": "new",
+    "participateDoNotInitiate": false,
+    "userId": "user_510241",
+    "symbol": "DASHBTC",
+    "side": "buy",
+    "price": "0.018945",
+    "quantity": 460502,
+    "type": "limit",
+    "timeInForce": "GTC",
+    "lastQuantity": 0,
+    "lastPrice": "",
+    "leavesQuantity": 460502,
+    "cumQuantity": 0,
+    "averagePrice": "0",
+    "created": 1547827956902,
+    "execReportType": "replaced",
+    "timestamp": 1547830521813,
+    "originalRequestClientOrderId": "010F10DE69C95AE20FB100"
+  }
+}

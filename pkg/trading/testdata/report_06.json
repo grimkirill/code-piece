@@ -1,0 +1,25 @@
+{
+  "ExecutionReport": {
+    "orderId": "95620796027",
+    "latestOrderId": "95620796029",
+    "clientOrderId": "d6a796e3e21a0fd9ce12ed537be82997",
+    "orderStatus": "new",
+    "participateDoNotInitiate": false,
+    "userId": "user_101499",
+    "symbol": "BCNBTC",
+    "side": "buy",
+    "price": "0.0000000123",
+    "quantity": 2,
+    "type": "limit",
+    "timeInForce": "GTC",
+    "lastQuantity": 0,
+    "lastPrice": "",
+    "leavesQuantity": 2,
+    "cumQuantity": 0,
+    "averagePrice": "0",
+    "created": 1548162831526,
+    "execReportType": "replaced",
+    "timestamp": 1548163103305,
+    "originalRequestClientOrderId": "5e3a0bb84145c7d2fb3360564e3e05d5"
+  }
+}

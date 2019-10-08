@@ -1,0 +1,26 @@
+{
+  "ExecutionReport": {
+    "orderId": "84224783864",
+    "latestOrderId": "84224783864",
+    "clientOrderId": "2b946a6bc3ed7186f089406251a51ee1",
+    "orderStatus": "filled",
+    "participateDoNotInitiate": false,
+    "userId": "user_101499",
+    "symbol": "BCNBTC",
+    "side": "buy",
+    "quantity": 1,
+    "type": "market",
+    "timeInForce": "GTC",
+    "lastQuantity": 1,
+    "lastPrice": "0.0000001641",
+    "leavesQuantity": 0,
+    "cumQuantity": 1,
+    "averagePrice": "0.0000001641",
+    "created": 1546079927134,
+    "execReportType": "trade",
+    "timestamp": 1546079927134,
+    "tradeId": 419244207,
+    "feeAmount": "0.000000016410",
+    "feeInstr": "BTC"
+  }
+}

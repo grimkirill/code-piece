@@ -1,0 +1,24 @@
+{
+  "ExecutionReport": {
+    "orderId": "N/A",
+    "latestOrderId": "N/A",
+    "clientOrderId": "e0ff44dff5d2cc3b4d69e170ac83ac9c",
+    "orderStatus": "rejected",
+    "participateDoNotInitiate": false,
+    "userId": "user_9935",
+    "symbol": "BCNBTC",
+    "side": "buy",
+    "price": "0.0000430000",
+    "quantity": 100,
+    "type": "limit",
+    "timeInForce": "GTC",
+    "lastQuantity": 0,
+    "lastPrice": "",
+    "leavesQuantity": 0,
+    "cumQuantity": 0,
+    "averagePrice": "0",
+    "created": 1547485436564,
+    "execReportType": "rejected",
+    "orderRejectReason": "orderExceedsLimit"
+  }
+}
